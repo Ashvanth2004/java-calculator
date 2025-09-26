@@ -23,3 +23,23 @@ This project is a learning exercise for creating GUI applications in Java and ha
 
 ```bash
 javac Calculator.java
+java Calculator
+Calculator.java   # Main Java file with GUI and logic
+README.md         # This file
+.gitignore        # Optional: ignore compiled files or IDE configs
+
+
+
+---
+
+✅ **Instructions to add to GitHub:**
+
+1. Create a `README.md` in your project folder.  
+2. Paste the content above.  
+3. Save it.  
+4. Push to GitHub:
+
+```bash
+git add README.md
+git commit -m "Add README"
+git push
